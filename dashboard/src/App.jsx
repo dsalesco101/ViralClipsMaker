@@ -329,22 +329,7 @@ function App() {
           <span className="font-medium hidden lg:block">Settings</span>
         </button>
       </nav>
-      <div className="p-4 border-t border-white/5">
-        <a
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center gap-2 p-3 bg-white/5 hover:bg-white/10 rounded-xl transition-colors group"
-        >
-          <div className="w-8 h-8 rounded-full bg-white text-black flex items-center justify-center shrink-0">
-            
-          </div>
-          <div className="hidden lg:block overflow-hidden">
-            <p className="text-sm font-bold text-white leading-none mb-0.5">Message Board:</p>
-            <p className="text-[10px] text-zinc-400 group-hover:text-zinc-300 transition-colors truncate">We are planning to bring much more updates!</p>
-          </div>
-        </a>
-      </div>
+
     </div>
   );
 
