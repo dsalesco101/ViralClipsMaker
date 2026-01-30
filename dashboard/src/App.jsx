@@ -301,7 +301,7 @@ function App() {
         <div className="w-8 h-8 bg-white/5 rounded-lg flex items-center justify-center shrink-0 overflow-hidden border border-white/5">
           <img src="/logo-openshorts.png" alt="Logo" className="w-full h-full object-cover" />
         </div>
-        <span className="font-bold text-lg text-white hidden lg:block tracking-tight">OpenShorts</span>
+        <span className="font-bold text-lg text-white hidden lg:block tracking-tight">ViralClipsMaker</span>
       </div>
 
       <nav className="flex-1 px-4 py-4 space-y-2">
